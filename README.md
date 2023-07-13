@@ -15,7 +15,7 @@
 </p>  
 
 <p align="left"> 
-  Software Developer, passionate about games, software development and mainly, continuous learning.<br><br>
-  I have experience with software development mostly focused on Front-end development using JavaScript, Typescript, ReactJS and NextJS. I also have experience with NodeJS and Java as a Back-end developer. 
+  Desenvolvedor de software, apaixonado por games, desenvolvimento de software e principalmente aprendizado contínuo.<br><br>
+  Tenho experiência com desenvolvimento de software principalmente focado em desenvolvimento Front-end usando JavaScript, Typescript, ReactJS e NextJS. Também tenho experiência com NodeJS e Java como desenvolvedor Back-end. 
 </p>
 
