@@ -5,7 +5,6 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-## Follow my journey! 📫
 <p align="left">
   <a href="mailto:joaomiranda997@hotmail.com" alt="joaomiranda997@hotmail.com">
   <img src="https://img.shields.io/badge/-joaomiranda997@hotmail.com-00875f?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:joaomiranda997@hotmail.com" /></a>
