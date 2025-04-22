@@ -32,3 +32,11 @@
 <p align="left">
   🦄 <strong>Atualmente, estou focado em aprimorar meus conhecimentos em React Native, Expo e Redux</strong>
 </p>
+
+<details>
+  <summary>My Github Stats</summary>
+  <br>
+
+ | <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaoricardoM&show_icons=true&show=prs_merged,prs_merged_percentage&include_all_commits=true&theme=buefy&hide_border=true" alt="joaoricardoM's github stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoricardoM&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
+</details>
